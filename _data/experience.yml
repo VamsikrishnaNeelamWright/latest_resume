@@ -1,19 +1,26 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Associate Software Engineer
+- company: Everi India Pvt Ltd.
+  position: Associate Software Engineer
+  duration: July, 2022 &mdash; December, 2022
+  summary: Worked as an associate developer
+  <ul class="resume-item-list">
+    <li>Developed the Connector Module Api Simulator and Game Simulator in Angular 12</li>
+    <li>Worked on settings module in the Trilogy Interface for developing and integrating the .Net Core Api’s.</li>
+    <li>I worked as a developer in the development team along with the Testing team to fix the bugs in the project</li>
+    <li>Designed the interfaces for the Api Simulator and Game Simulator as per the design requirements using Angular 12 and Angular 13.</li>
+    <li>Integrated several Api’s for different games in Node Api into the Angular Game Simulator Interface.</li>
+  </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Software Engineer
+- company: MARS India Pvt Ltd. Alias Phoneix American Salesfocus Solutions
+  position: Software Engineer
+  duration:  February, 2022 &mdash; May, 2022
+  summary: Contributed to the MARS version 10 product release features design, development, and Unit testing as a Software Engineer. Conducted Unit Testing on the developed Api’s and Angular Interfaces and resolved the errors achieving 100% accuracy.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Software Engineer
+- company: Option Matrix Infotech
+  position: Software Engineer
+  duration:   January, 2021  &mdash; February, 2022
+  summary: Designed Various Angular UI Projects for the requirements of the clients for responsive web interfaces.Integrated .Net Web Api Framework using the Linq to Sql and Entity framework into Angular for complete functionality of the Project.Deployed the project onto the AWS server successfully for further development and feedback from the Clients.Maintained the source code on the Git Version Control System and the databases alongside the projects.

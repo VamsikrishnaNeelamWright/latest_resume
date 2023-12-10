@@ -23,7 +23,7 @@ resume_contact_address:         "3716 Kettering Ct, Fairborn, Ohio - 45324"
 resume_header_contact_info:     "73716 Kettering Ct, Fairborn, Ohio - 45324 • 937-939-0842 • nvamsikrishna.neelam@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>A highly self-motivated individual seeking a job in a prestigious organization to be able to use my technical and creative skills to interact, communicate and deal with folks, and contribute to the organization’s success. A very quick self-learner and will always try to accomplish the assigned work to the best possible extent and quickly and always eager to learn new skills, improve my knowledge, so will always use critical thinking to solve problems in an efficient manner.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -37,6 +37,7 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
+resume_section_certifications:  true
 resume_section_recognition:     true
 resume_section_links:           false
 resume_section_associations:    false
@@ -45,13 +46,13 @@ resume_section_interests:       false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
+  resume_linkedin_url:          "https://www.linkedin.com/in/neelam-v-193150173"
+  resume_website_url:           "https://vamsikrishnaneelamwright.github.io/latest_resume/"
   # resume_github_url:            "https://github.com/jglovier/resume-template"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 

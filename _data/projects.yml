@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# USA Vehicle Number Plates Classification
+- project: USA Vehicle Number Plates Classification
+  role: Primary Developer
+  duration: August, 2023 &mdash; December, 2023
+  url: "https://github.com/VamsiKrishnaN397/deeplearning_project"
+  description: Used the Resnet18 and Alex Net models from Deep Learning for the Image Classification task and achieved 90% accuracy.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Diamond Dataset Analysis
+- project: Diamond Dataset Analysis
+  role: Primary Developer
+  duration: January, 2023 &mdash; April, 2023
+  url: "https://github.com/VamsiKrishnaN397/machinelearning_project"
+  description: Used Logistic Regression along with the other Unsupervised Machine Learning Techniques for price prediction and data analysis, achieved 95% model training and testing accuracy.
+
+# Covidia Chatbot
+- project: Covidia Chatbot
+  role: Developer
+  duration: January, 2023 &mdash; April, 2023
+  url: "https://github.com/VamsiKrishnaN397/distributedcomputing_project"
+  description: An AI chatbot which uses speech to text translation and analyses user responses for predicting if the person is suffering from Covid19. Worked on integration of Speech to Text Api in python and deployed the project to generate a live link along with testing the project, achieved 98% accuracy.

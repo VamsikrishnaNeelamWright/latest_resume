@@ -3,14 +3,7 @@
 - company: Everi India Pvt Ltd.
   position: Associate Software Engineer
   duration: July, 2022 &mdash; December, 2022
-  summary: Worked as an associate developer
-  <ul class="resume-item-list">
-    <li>Developed the Connector Module Api Simulator and Game Simulator in Angular 12</li>
-    <li>Worked on settings module in the Trilogy Interface for developing and integrating the .Net Core Api’s.</li>
-    <li>I worked as a developer in the development team along with the Testing team to fix the bugs in the project</li>
-    <li>Designed the interfaces for the Api Simulator and Game Simulator as per the design requirements using Angular 12 and Angular 13.</li>
-    <li>Integrated several Api’s for different games in Node Api into the Angular Game Simulator Interface.</li>
-  </ul>
+  summary: Worked as an associate developer<ul class="resume-item-list"><li>Developed the Connector Module Api Simulator and Game Simulator in Angular 12</li><li>Worked on settings module in the Trilogy Interface for developing and integrating the .Net Core Api’s.</li><li>I worked as a developer in the development team along with the Testing team to fix the bugs in the project</li><li>Designed the interfaces for the Api Simulator and Game Simulator as per the design requirements using Angular 12 and Angular 13.</li><li>Integrated several Api’s for different games in Node Api into the Angular Game Simulator Interface.</li></ul>
 
 # Software Engineer
 - company: MARS India Pvt Ltd. Alias Phoneix American Salesfocus Solutions
